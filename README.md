@@ -3,11 +3,11 @@ The gym equipment booking system made for 2DV609.
 
 
 ## Project contributors
-Yuyao Duan
-Fabian Dacic
-Li Ang Hu
-Long Ma
-Fredric Eriksson Sepúlveda
+1. Yuyao Duan
+2. Fabian Dacic
+3. Li Ang Hu
+4. Long Ma
+5. Fredric Eriksson Sepúlveda
 
 
 ## Getting started
